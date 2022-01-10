@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi! Glad to see you here 👋 
+## I am SYNC
+
+Fall 2022 🛫🗽
+
+Startup Creator 🧑‍🎨📱 / Student École 21 👨‍🎓🖥
+
+**Currently work on:**
+
+École 42 Common Core 🔘 Due Spring 2022 📆
+
+Founding Dis App 🔘 Due Fall 2022 📆
+
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mclown?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **Mitya-Avadyaev/Mitya-Avadyaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
