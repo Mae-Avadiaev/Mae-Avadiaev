@@ -1,9 +1,4 @@
 ### Hi! Glad to see you here 👋 
-# I am SYNC
-
-Fall 2022 -> LA, CA 🛫🗽
-
-Startup Creator 🧑‍🎨📱 / Student École 42 👨‍🎓🖥
 
 ## Currently work on:
 
