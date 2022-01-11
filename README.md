@@ -1,16 +1,17 @@
 ### Hi! Glad to see you here 👋 
-## I am SYNC
+# I am SYNC
 
 Fall 2022 🛫🗽
 
-Startup Creator 🧑‍🎨📱 / Student École 21 👨‍🎓🖥
+Startup Creator 🧑‍🎨📱 / Student École 42 👨‍🎓🖥
 
-**Currently work on:**
+## Currently work on:
 
 École 42 Common Core 🔘 Due Spring 2022 📆
 
 Founding Dis App 🔘 Due Fall 2022 📆
 
+## École 42 stats
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mclown?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
