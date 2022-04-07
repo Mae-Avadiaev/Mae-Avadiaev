@@ -4,7 +4,7 @@
 
 École 42 Common Core 🔘 Due Spring 2022 📆
 
-Founding Dis App 🔘 Due Fall 2022 📆
+Relocating 🔘 Due Fall 2022 📆
 
 ## École 42 stats
 
