@@ -22,4 +22,7 @@ Junior developer with 3 years of experience in versatile stack of technologies f
 * Express
 * MongoDB, Mongoose
 * PostgresSQL
+* Docker
+* AWS
+
 ### [Portfolio](https://mitia-avadiaev.github.io/)
