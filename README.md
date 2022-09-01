@@ -4,25 +4,9 @@ Junior developer with 3 years of experience in versatile stack of technologies f
 
 ## Technologies: 
 ### Front End
-* Java Script
-* SCSS, HTML
-* React
-* React Router
-* Firebase
-* Redux
-* Styled Components
-* Redux-Saga
-* Context-API
-* GraphQL
-* PWA
+Java Script / SCSS, HTML / React / React Router / Firebase / Redux / Styled Components / Redux-Saga / Context-API / GraphQL / PWA
 
 ### Backend
-* Rest API
-* Node.js
-* Express
-* MongoDB, Mongoose
-* PostgresSQL
-* Docker
-* AWS
+Rest API / Node.js / Express / MongoDB, Mongoose / PostgresSQL / Docker / AWS
 
 ### [Portfolio](https://mitia-avadiaev.github.io/)
