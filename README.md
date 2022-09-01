@@ -17,8 +17,9 @@ Junior developer with 3 years of experience in versatile stack of technologies f
 * PWA
 
 ### Backend
+* Rest API
 * Node.js
 * Express
-* MongoDB
+* MongoDB, Mongoose
 * PostgresSQL
 ### [Portfolio](https://mitia-avadiaev.github.io/)
