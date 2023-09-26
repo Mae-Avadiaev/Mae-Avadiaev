@@ -6,5 +6,3 @@ Java Script / SCSS, HTML / React / React Router / Firebase / Redux / Styled Comp
 
 ### Backend
 Rest API / Node.js / Express / MongoDB, Mongoose / PostgresSQL / Docker / AWS
-
-### [Portfolio](https://mitia-avadiaev.github.io/)
