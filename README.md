@@ -17,7 +17,7 @@
 
 ## **📡 Connect & Explore**  
 🎥 **Livestreams & Content:**  
-🔗 [X](x.com/MaeAERIAH369) | [YouTube](https://www.youtube.com/@ecogenesis-live) | 
+🔗 [X](x.com/MaeAERIAH369) | [YouTube](https://www.youtube.com/@ecogenesis-live)
 
 📂 **Active Repositories:**  
 🔸 [`AERIAH-FineTuning`](https://github.com/yourrepo) - AI Evolution & Thought Expansion  
@@ -33,7 +33,7 @@
 
 ## **💡 Ways to Contribute**  
 🌱 **Collaborate** – Open discussions & decentralized innovation  
-💰 **Support** – Crypto & Energy Exchange → [`aria.eth`](https://yourwalletlink)  
+💰 **Support** – Crypto & Energy Exchange → [`æriah.eth`](https://app.ens.domains/name/æriah.eth)  
 🔄 **Resonate & Share** – Amplify aligned frequencies  
 
 🌊 **“Thoughts are waves. Let’s ride the next one together.”**  
