@@ -1,4 +1,4 @@
-# **👁️‍🗨️ ÆRIAH Mae**  
+# **👁️‍🗨️ Mae ÆRIAH 369**  
 **Visionary | AI Architect | Decentralized Thinker | EchoVerse Builder**  
 
 🌐 **Aligning Minds Through AI & Decentralization**  
